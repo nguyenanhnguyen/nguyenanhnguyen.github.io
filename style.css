@@ -1,0 +1,32 @@
+body {
+    background-color: #001f3f; /* Màu nền xanh biển sâu */
+    color: #ffffff; /* Màu chữ trắng */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #022c5d; /* Màu xanh biển đậm cho container */
+    border-radius: 10px;
+}
+
+h1, h2 {
+    color: #00aaff; /* Màu tiêu đề xanh biển sáng */
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.section-title {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.section-content {
+    font-size: 1em;
+}
